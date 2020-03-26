@@ -3414,6 +3414,16 @@ entries:
     version: 0.0.0-4c44f4c800a18344d17879e6e9edcf08f7b21d0e
   - apiVersion: v1
     appVersion: master
+    created: "2020-03-26T19:56:24.752266673Z"
+    description: Giant Swarm releases for azure.
+    digest: 56aa7968a352a59ed1f9863aa4dcb5cf93186fa8bc1249e19c5095932cd869f6
+    home: https://github.com/giantswarm/releases
+    name: releases-azure
+    urls:
+    - https://giantswarm.github.com/releases-test-catalog/releases-azure-0.0.0-491bbed7962b4c76f5f4aefd019c97f43e6cafdb.tgz
+    version: 0.0.0-491bbed7962b4c76f5f4aefd019c97f43e6cafdb
+  - apiVersion: v1
+    appVersion: master
     created: "2020-03-20T10:08:11.63876316Z"
     description: Giant Swarm releases for azure.
     digest: 79e4148880a30b29d47128c602fbaec3abded81a4942b849fbd3eb9a5b134c53
@@ -5963,4 +5973,4 @@ entries:
     urls:
     - https://giantswarm.github.com/releases-test-catalog/releases-kvm-0.0.0-00d83bce0d38707818d8fbec8c3f2800e8423dae.tgz
     version: 0.0.0-00d83bce0d38707818d8fbec8c3f2800e8423dae
-generated: "2020-03-26T19:55:45.651840329Z"
+generated: "2020-03-26T19:56:24.751738271Z"
