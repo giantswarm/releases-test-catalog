@@ -4963,6 +4963,16 @@ entries:
     version: 0.0.0-042b2073e285d907a8112c18ce31bf38575d16cd
   - apiVersion: v1
     appVersion: master
+    created: "2020-05-04T09:53:37.003857172Z"
+    description: Giant Swarm releases for aws.
+    digest: d71ce610170d47619a5c129bfaf614e288c678333267baf6f3eddccd3755767f
+    home: https://github.com/giantswarm/releases
+    name: releases-aws
+    urls:
+    - https://giantswarm.github.com/releases-test-catalog/releases-aws-0.0.0-03ab9e5c2af11c80d4caa6fa63c5e865e9f84062.tgz
+    version: 0.0.0-03ab9e5c2af11c80d4caa6fa63c5e865e9f84062
+  - apiVersion: v1
+    appVersion: master
     created: "2020-03-18T23:44:17.005748966Z"
     description: Giant Swarm releases for aws.
     digest: 1237bbfad953f7db58a4bec9d5b8243380387ce3faa2e666b779ef4398167286
@@ -15193,4 +15203,4 @@ entries:
     urls:
     - https://giantswarm.github.com/releases-test-catalog/releases-kvm-0.0.0-0059b83f52c848e259a2170b1d843e054e82e4e5.tgz
     version: 0.0.0-0059b83f52c848e259a2170b1d843e054e82e4e5
-generated: "2020-05-04T09:53:31.845982822Z"
+generated: "2020-05-04T09:53:37.003505937Z"
