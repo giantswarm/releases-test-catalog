@@ -15315,6 +15315,16 @@ entries:
     version: 0.0.0-4a45b5ce17dd0227db4ee0da8e38bcad7a821165
   - apiVersion: v1
     appVersion: master
+    created: "2020-05-08T15:35:22.027371807Z"
+    description: Giant Swarm releases for kvm.
+    digest: 8c26b7b0e881683d4cae1b10cddef621f09e04f522d7794723689e3ed6683bce
+    home: https://github.com/giantswarm/releases
+    name: releases-kvm
+    urls:
+    - https://giantswarm.github.com/releases-test-catalog/releases-kvm-0.0.0-4a0760f20dba00140d0e723076a5e8fcf05081ca.tgz
+    version: 0.0.0-4a0760f20dba00140d0e723076a5e8fcf05081ca
+  - apiVersion: v1
+    appVersion: master
     created: "2020-04-16T17:30:09.966317763Z"
     description: Giant Swarm releases for kvm.
     digest: 5efe1237cef1259a88f024cb602862d852cb52d3f3c25e5a092abe6a4e47b661
@@ -17073,4 +17083,4 @@ entries:
     urls:
     - https://giantswarm.github.com/releases-test-catalog/releases-kvm-0.0.0-0059b83f52c848e259a2170b1d843e054e82e4e5.tgz
     version: 0.0.0-0059b83f52c848e259a2170b1d843e054e82e4e5
-generated: "2020-05-08T15:03:34.240183657Z"
+generated: "2020-05-08T15:35:22.026805549Z"
