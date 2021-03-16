@@ -75036,6 +75036,16 @@ entries:
   releases-vmware:
   - apiVersion: v1
     appVersion: master
+    created: "2021-03-16T14:41:47.257005726Z"
+    description: Giant Swarm releases for vmware.
+    digest: 8c167c780534d4ae97219b633c48481d3fc55cdc5d06fd40dabaafbd8c2c4215
+    home: https://github.com/giantswarm/releases
+    name: releases-vmware
+    urls:
+    - https://giantswarm.github.io/releases-test-catalog/releases-vmware-0.0.0-ec52785809acf185d3ed4cc33338138281ddf771.tgz
+    version: 0.0.0-ec52785809acf185d3ed4cc33338138281ddf771
+  - apiVersion: v1
+    appVersion: master
     created: "2021-03-04T14:02:52.262111739Z"
     description: Giant Swarm releases for vmware.
     digest: 0173bc874d3491d820911304c38b47680c0dfa3e121c774977e0d92b7c6c9c8e
@@ -75044,4 +75054,4 @@ entries:
     urls:
     - https://giantswarm.github.io/releases-test-catalog/releases-vmware-0.0.0-db984b2bfa3b195782c1e63857f2f960344fe0b6.tgz
     version: 0.0.0-db984b2bfa3b195782c1e63857f2f960344fe0b6
-generated: "2021-03-16T14:40:48.901697457Z"
+generated: "2021-03-16T14:41:47.256524786Z"
