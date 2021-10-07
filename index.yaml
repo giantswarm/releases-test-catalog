@@ -4002,6 +4002,18 @@ entries:
       config.giantswarm.io/version: 1.x.x
     apiVersion: v1
     appVersion: master
+    created: "2021-10-07T11:48:18.004472618Z"
+    description: Giant Swarm releases for azure.
+    digest: 7140ee5599361123ac5fce4d1c3577bde78e8ddd026395ead86f16b5d6a81c3a
+    home: https://github.com/giantswarm/releases
+    name: releases-azure
+    urls:
+    - https://giantswarm.github.io/releases-test-catalog/releases-azure-0.0.0-2167d9e8267eebbf0f4cc732f7a2d24f50b6ca55.tgz
+    version: 0.0.0-2167d9e8267eebbf0f4cc732f7a2d24f50b6ca55
+  - annotations:
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v1
+    appVersion: master
     created: "2021-09-14T12:11:53.959979+02:00"
     description: Giant Swarm releases for azure.
     digest: 3548c8b337de96c3511a6e14115920d5e01e4ae400dd2ed4c3c00f834b756787
@@ -6364,4 +6376,4 @@ entries:
     urls:
     - https://giantswarm.github.io/releases-test-catalog/releases-vsphere-0.0.0-115fb5643bb9e89fb67bf6b23e19a77479e6ce57.tgz
     version: 0.0.0-115fb5643bb9e89fb67bf6b23e19a77479e6ce57
-generated: "2021-10-07T10:45:34.463790485Z"
+generated: "2021-10-07T11:48:18.004034682Z"
