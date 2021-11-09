@@ -1072,6 +1072,18 @@ entries:
     urls:
     - https://giantswarm.github.io/releases-test-catalog/releases-openstack-0.0.0-803732135ce410c5c57149f435f697a539244866.tgz
     version: 0.0.0-803732135ce410c5c57149f435f697a539244866
+  - annotations:
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v1
+    appVersion: master
+    created: "2021-11-09T18:20:43.591275745Z"
+    description: Giant Swarm releases for OpenStack.
+    digest: 996e498f5d032d93899919f4876309125a71816d2c7a87e086cf69ef888ed4db
+    home: https://github.com/giantswarm/releases
+    name: releases-openstack
+    urls:
+    - https://giantswarm.github.io/releases-test-catalog/releases-openstack-0.0.0-5ffb942dfb617ca25a579f9646e3a938d88b06de.tgz
+    version: 0.0.0-5ffb942dfb617ca25a579f9646e3a938d88b06de
   releases-vsphere:
   - annotations:
       config.giantswarm.io/version: 1.x.x
@@ -1169,4 +1181,4 @@ entries:
     urls:
     - https://giantswarm.github.io/releases-test-catalog/releases-vsphere-0.0.0-55957bb81797dbe207e16de493dab2f9cbfb0352.tgz
     version: 0.0.0-55957bb81797dbe207e16de493dab2f9cbfb0352
-generated: "2021-11-09T17:36:50.506864249Z"
+generated: "2021-11-09T18:20:43.590907314Z"
