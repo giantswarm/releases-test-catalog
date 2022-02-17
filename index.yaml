@@ -1313,6 +1313,18 @@ entries:
       config.giantswarm.io/version: 1.x.x
     apiVersion: v1
     appVersion: master
+    created: "2022-02-17T12:15:23.026218693Z"
+    description: Giant Swarm releases for aws.
+    digest: 63d79fac78ece3511f9ae0def5af8fa385d2747f15eadccc196b6e96a618a3a1
+    home: https://github.com/giantswarm/releases
+    name: releases-aws
+    urls:
+    - https://giantswarm.github.io/releases-test-catalog/releases-aws-0.0.0-633e8dc42b86ab3f3170764b26e4ad177e799e0a.tgz
+    version: 0.0.0-633e8dc42b86ab3f3170764b26e4ad177e799e0a
+  - annotations:
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v1
+    appVersion: master
     created: "2021-12-09T15:24:19.911814464Z"
     description: Giant Swarm releases for aws.
     digest: a73fb53aca249e926247f2fb7777aa462588e253410fb2f8387787e8827bea6a
@@ -4289,4 +4301,4 @@ entries:
     urls:
     - https://giantswarm.github.io/releases-test-catalog/releases-vsphere-0.0.0-55957bb81797dbe207e16de493dab2f9cbfb0352.tgz
     version: 0.0.0-55957bb81797dbe207e16de493dab2f9cbfb0352
-generated: "2022-02-17T12:12:48.699729357Z"
+generated: "2022-02-17T12:15:23.025716568Z"
