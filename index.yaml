@@ -1349,6 +1349,18 @@ entries:
       config.giantswarm.io/version: 1.x.x
     apiVersion: v1
     appVersion: master
+    created: "2022-08-24T11:47:11.670816566Z"
+    description: Giant Swarm releases for aws.
+    digest: c9fbdbf5deed78882af8a9bd3651dc4cbbc802e4a58a3c21a79208455420ffcc
+    home: https://github.com/giantswarm/releases
+    name: releases-aws
+    urls:
+    - https://giantswarm.github.io/releases-test-catalog/releases-aws-0.0.0-0938f1d3f6712e5938ed682345aee373f6a08837.tgz
+    version: 0.0.0-0938f1d3f6712e5938ed682345aee373f6a08837
+  - annotations:
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v1
+    appVersion: master
     created: "2022-07-13T09:46:10.248122245Z"
     description: Giant Swarm releases for aws.
     digest: c245dcb4fefa1965987a91a72756da71089fedce460d6d7d51cbc5813ab9fceb
@@ -1623,4 +1635,4 @@ entries:
     urls:
     - https://giantswarm.github.io/releases-test-catalog/releases-kvm-0.0.0-50c260325742503b4fc04706223661ffb448a45a.tgz
     version: 0.0.0-50c260325742503b4fc04706223661ffb448a45a
-generated: "2022-08-24T11:17:37.92497602Z"
+generated: "2022-08-24T11:47:11.67037836Z"
