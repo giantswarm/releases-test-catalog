@@ -1651,6 +1651,18 @@ entries:
       config.giantswarm.io/version: 1.x.x
     apiVersion: v1
     appVersion: master
+    created: "2024-07-09T11:45:04.470200084Z"
+    description: Giant Swarm releases for AWS (CAPA).
+    digest: 47a24c9ec4f21f0d51a152fcdcb3f9a74dec237272ca523e8234029219807e33
+    home: https://github.com/giantswarm/releases
+    name: releases-capa
+    urls:
+    - https://giantswarm.github.io/releases-test-catalog/releases-capa-0.0.0-080293aad731a2dfbc30a015c88e26cace40af94.tgz
+    version: 0.0.0-080293aad731a2dfbc30a015c88e26cace40af94
+  - annotations:
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v1
+    appVersion: master
     created: "2024-07-04T14:47:26.662887331Z"
     description: Giant Swarm releases for AWS (CAPA).
     digest: d031b08f4873feee27e5811ffa7fd437ac47d41faf00f43ad6c6cff47311ba64
@@ -1695,4 +1707,4 @@ entries:
     urls:
     - https://giantswarm.github.io/releases-test-catalog/releases-capa-0.0.0-006200c435313d7901f11f275229f1d2ee213f3f.tgz
     version: 0.0.0-006200c435313d7901f11f275229f1d2ee213f3f
-generated: "2024-07-09T11:36:31.319209443Z"
+generated: "2024-07-09T11:45:04.469778555Z"
