@@ -2379,6 +2379,19 @@ entries:
       config.giantswarm.io/version: 1.x.x
     apiVersion: v1
     appVersion: master
+    created: "2024-10-24T21:05:02.877294447Z"
+    description: Giant Swarm releases for vSphere.
+    digest: 3af25f74f2cfc9887e63b6b2d08dbdccb3effd9454d27b4637a739aba258cbc2
+    home: https://github.com/giantswarm/releases
+    name: releases-vsphere
+    urls:
+    - https://giantswarm.github.io/releases-test-catalog/releases-vsphere-0.0.0-c7988429d08637bdf17ffc2290d0fb84887c0666.tgz
+    version: 0.0.0-c7988429d08637bdf17ffc2290d0fb84887c0666
+  - annotations:
+      application.giantswarm.io/team: rocket
+      config.giantswarm.io/version: 1.x.x
+    apiVersion: v1
+    appVersion: master
     created: "2024-10-23T16:59:38.369405506Z"
     description: Giant Swarm releases for vSphere.
     digest: a27b9fc5367f1a1d4629e6f636b956d17f5a26c9ef6d327db88d9b000e6a9086
@@ -2699,4 +2712,4 @@ entries:
     urls:
     - https://giantswarm.github.io/releases-test-catalog/releases-vsphere-0.0.0-037458d3fc1e92c05a81d0f2919af54fe6a48058.tgz
     version: 0.0.0-037458d3fc1e92c05a81d0f2919af54fe6a48058
-generated: "2024-10-24T21:05:00.961402755Z"
+generated: "2024-10-24T21:05:02.876862317Z"
